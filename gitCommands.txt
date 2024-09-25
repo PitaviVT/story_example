@@ -1,0 +1,7 @@
+git init 
+git add 'example.txt' || git add .
+git status
+git log
+git commit -m "Initial commit"
+git diff 'example.txt'
+git checkout --> te pone los ficheros en línea con el último commit que has hecho anteriormente
