@@ -5,3 +5,4 @@ git log
 git commit -m "Initial commit"
 git diff 'example.txt'
 git checkout --> te pone los ficheros en línea con el último commit que has hecho anteriormente
+git branch -M main
